@@ -1,0 +1,56 @@
+ъхх
+эээээээээээээээээээээээээээээээээээээээээээLisovskyi Kirill
+Genetic Searching
+------------------------------------------------------------------------------
+001	search	SIIK
+organism			protein
+Homo sapiens (Human)		6.8 kDa mitochondrial proteolipid
+------------------------------------------------------------------------------
+002	search	PLML
+organism			protein
+Homo sapiens (Human)		Pre-T/NK cell associated protein 6H9A
+------------------------------------------------------------------------------
+003	search	FKIII
+organism				protein
+NOT FOUND
+------------------------------------------------------------------------------
+004	diff	6.8 kDa mitochondrial proteolipid	Alcohol dehydrogenase
+amino-acids difference:
+81
+------------------------------------------------------------------------------
+005	diff	RNA-dependent RNA polymerase [Fragment]	Alcohol dehydrogenase
+amino-acids difference:
+115
+------------------------------------------------------------------------------
+006	diff	Cecropin	Pre-T/NK cell associated protein 6H9A
+amino-acids difference:
+56
+------------------------------------------------------------------------------
+007	mode	Cecropin
+amino-acid occurs: 
+A		5
+------------------------------------------------------------------------------
+008	mode	Alcohol dehydrogenase
+amino-acid occurs: 
+V		11
+------------------------------------------------------------------------------
+009	search	KKKSSS
+organism			protein
+protein(bacteria)		Barstar bacterial
+------------------------------------------------------------------------------
+010	diff	Alcohol dehydrogenase	Barstar bacterial
+amino-acids difference:
+83
+------------------------------------------------------------------------------
+011	mode	Barstar bacterial
+amino-acid occurs: 
+K		3
+------------------------------------------------------------------------------
+012	search	AAAABBB
+organism				protein
+NOT FOUND
+------------------------------------------------------------------------------
+013	search	AAAABBB
+organism				protein
+NOT FOUND
+------------------------------------------------------------------------------
